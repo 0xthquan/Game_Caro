@@ -1,0 +1,27 @@
+E:\SpaceVisualStudio\GameCaro\GameCaro\bin\Debug\GameCaro.exe.config
+E:\SpaceVisualStudio\GameCaro\GameCaro\bin\Debug\GameCaro.exe
+E:\SpaceVisualStudio\GameCaro\GameCaro\bin\Debug\GameCaro.pdb
+E:\SpaceVisualStudio\GameCaro\GameCaro\obj\Debug\GameCaro.csprojResolveAssemblyReference.cache
+E:\SpaceVisualStudio\GameCaro\GameCaro\obj\Debug\GameCaro.Properties.Resources.resources
+E:\SpaceVisualStudio\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.GenerateResource.Cache
+E:\SpaceVisualStudio\GameCaro\GameCaro\obj\Debug\GameCaro.exe
+E:\SpaceVisualStudio\GameCaro\GameCaro\obj\Debug\GameCaro.pdb
+E:\SpaceVisualStudio\GameCaro\GameCaro\obj\Debug\GameCaro.Form1.resources
+F:\WorkSpace\C Sharp Projects\GameCaro\GameCaro\bin\Debug\GameCaro.exe.config
+F:\WorkSpace\C Sharp Projects\GameCaro\GameCaro\obj\Debug\GameCaro.exe
+F:\WorkSpace\C Sharp Projects\GameCaro\GameCaro\obj\Debug\GameCaro.pdb
+F:\WorkSpace\C Sharp Projects\GameCaro\GameCaro\bin\Debug\GameCaro.exe
+F:\WorkSpace\C Sharp Projects\GameCaro\GameCaro\bin\Debug\GameCaro.pdb
+F:\WorkSpace\C Sharp Projects\GameCaro\GameCaro\obj\Debug\GameCaro.csprojResolveAssemblyReference.cache
+F:\WorkSpace\C Sharp Projects\GameCaro\GameCaro\obj\Debug\GameCaro.Form1.resources
+F:\WorkSpace\C Sharp Projects\GameCaro\GameCaro\obj\Debug\GameCaro.Properties.Resources.resources
+F:\WorkSpace\C Sharp Projects\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.GenerateResource.Cache
+C:\Users\MyPC\Desktop\GameCaro\GameCaro\bin\Debug\GameCaro.exe.config
+C:\Users\MyPC\Desktop\GameCaro\GameCaro\obj\Debug\GameCaro.exe
+C:\Users\MyPC\Desktop\GameCaro\GameCaro\obj\Debug\GameCaro.pdb
+C:\Users\MyPC\Desktop\GameCaro\GameCaro\bin\Debug\GameCaro.exe
+C:\Users\MyPC\Desktop\GameCaro\GameCaro\bin\Debug\GameCaro.pdb
+C:\Users\MyPC\Desktop\GameCaro\GameCaro\obj\Debug\GameCaro.csprojResolveAssemblyReference.cache
+C:\Users\MyPC\Desktop\GameCaro\GameCaro\obj\Debug\GameCaro.Form1.resources
+C:\Users\MyPC\Desktop\GameCaro\GameCaro\obj\Debug\GameCaro.Properties.Resources.resources
+C:\Users\MyPC\Desktop\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.GenerateResource.Cache
